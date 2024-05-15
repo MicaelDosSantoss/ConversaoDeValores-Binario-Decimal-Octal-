@@ -1,0 +1,10 @@
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\bin\Debug\ConversãoBinairo.exe.config
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\bin\Debug\ConversãoBinairo.exe
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\bin\Debug\ConversãoBinairo.pdb
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.csproj.AssemblyReference.cache
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.Form1.resources
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.Properties.Resources.resources
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.csproj.GenerateResource.cache
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.csproj.CoreCompileInputs.cache
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.exe
+D:\ProgramacaoArquivos\Csharp\ConversãoBinairo\ConversãoBinairo\obj\Debug\ConversãoBinairo.pdb

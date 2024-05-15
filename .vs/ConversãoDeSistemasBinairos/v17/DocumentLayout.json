@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oDeSistemasBinairos.csproj|d:\\programacaoarquivos\\csharp\\convers\u00E3obinario\\convers\u00E3obinairo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oDeSistemasBinairos.csproj|solutionrelative:convers\u00E3obinairo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\convers\u00E3obinairo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|solutionrelative:convers\u00E3obinairo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\convers\u00E3obinairo\\converter\\octalparabinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|solutionrelative:convers\u00E3obinairo\\converter\\octalparabinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\convers\u00E3obinairo\\converter\\decimalparaoctal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|solutionrelative:convers\u00E3obinairo\\converter\\decimalparaoctal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\convers\u00E3obinairo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|solutionrelative:convers\u00E3obinairo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\convers\u00E3obinairo\\converter\\binarioparaoctal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CE169-D98A-4F35-A31A-0C7D75854C08}|Convers\u00E3oBinairo\\Convers\u00E3oBinairo.csproj|solutionrelative:convers\u00E3obinairo\\converter\\binarioparaoctal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Form1.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Form1.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Form1.cs",
+              "RelativeToolTip": "Convers\u00E3oBinairo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:48:32.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OctalParaBinario.cs",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\OctalParaBinario.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Converter\\OctalParaBinario.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\OctalParaBinario.cs",
+              "RelativeToolTip": "Convers\u00E3oBinairo\\Converter\\OctalParaBinario.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:25:08.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecimalParaOctal.cs",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\DecimalParaOctal.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Converter\\DecimalParaOctal.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\DecimalParaOctal.cs",
+              "RelativeToolTip": "Convers\u00E3oBinairo\\Converter\\DecimalParaOctal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:53:17.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinarioParaOctal.cs",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\BinarioParaOctal.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Converter\\BinarioParaOctal.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Converter\\BinarioParaOctal.cs",
+              "RelativeToolTip": "Convers\u00E3oBinairo\\Converter\\BinarioParaOctal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:51:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Form1.Designer.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Form1.Designer.cs",
+              "RelativeToolTip": "Convers\u00E3oBinairo\\Form1.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:50:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinario\\Convers\u00E3oBinairo\\Form1.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oBinairo\\Form1.cs",
+              "ToolTip": "D:\\ProgramacaoArquivos\\Csharp\\Convers\u00E3oBinairo\\Convers\u00E3oBinairo\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Convers\u00E3oBinairo\\Convers\u00E3oBinairo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:50:15.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
